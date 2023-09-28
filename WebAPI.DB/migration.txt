@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Server=.;Database=PatientManagement;Trusted_Connection=True;Trust Server Certificate=true;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
